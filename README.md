@@ -9,8 +9,6 @@ Hello there, My name is Shantanu Chaudhari (210108012), A fresher at IIT Guwahat
 
 I love Coding, Design, Photography, Gaming and much more.
 
-I want to Contribute to open source cause it has given me so much, for example Android, Blender, some small yet awesome projects which i want to be a part of
-
 <br />
 
 ## Contact
